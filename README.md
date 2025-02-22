@@ -6,10 +6,20 @@ Linear Regression is a fundamental machine learning algorithm used for predictiv
 
 # Features
 **📊 Data Preprocessing:** Handling missing values, feature selection, and data normalization.
+
+
 **📈 Simple & Multiple Linear Regression:** Implementing regression for single and multiple predictor variables.
+
+
 **🔍 Model Evaluation:** Using metrics like RMSE (Root Mean Squared Error) and R² score to assess performance.
+
+
 **📉 Data Visualization:** Plotting regression lines, residuals, and model predictions for better interpretation.
+
+
 **🚀 Scikit-learn Implementation:** Utilizing the LinearRegression module from scikit-learn for efficient model training.
+
+
 
 # Installation & Setup
 To run this project locally, follow these steps:

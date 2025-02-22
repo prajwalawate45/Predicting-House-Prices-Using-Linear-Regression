@@ -25,9 +25,6 @@ Linear Regression is a fundamental machine learning algorithm used for predictiv
 # Installation & Setup
 To run this project locally, follow these steps:
 
-## Clone the Repository:
-git clone https://github.com/your-username/Linear-Regression-Model.git
-cd Linear-Regression-Model
 
 ## Set Up a Virtual Environment (Optional but Recommended):
 python -m venv env
